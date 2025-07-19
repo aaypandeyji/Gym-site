@@ -140,6 +140,7 @@ const Services = () => {
               <span>
                 Exercise reduces lethargy, bad health and absenteeism in employees.
               </span>
+              <br />
               <span>
                 Exercise increases energy levels, thereby performance at work and motivation of employees. Healthy and positive employees provide a healthy and competitive environment at work thereby ensuring superior performance.
               </span>
@@ -164,6 +165,7 @@ const Services = () => {
               <span>
                 Free Weight Training.
               </span>
+              <br />
               <span>
                 Massage and Steam.
               </span>
@@ -202,6 +204,7 @@ const Services = () => {
               <span>
                 State of the art equipment, knowledge of training techniques and nutritional concepts that are unrivaled in the industry.
               </span>
+              <br />
               <span>
                 Certified trainers that ensure that the fitness goal is achieved in a scientific and correct manner. If required, even by providing personalized training.
               </span>
@@ -232,6 +235,7 @@ const Services = () => {
               <span>
                 Increased physical activity and fitness resulting in a happier state of mind for the employees.
               </span>
+              <br />
               <span>
                 Overall improvement in health, leading to a healthier employee both at work and at home.
               </span>
@@ -320,3 +324,4 @@ const Services = () => {
 };
 
 export default Services;
+
