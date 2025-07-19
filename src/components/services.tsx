@@ -142,8 +142,12 @@ const Services = () => {
               </span>
               <br />
               <span>
-                Exercise increases energy levels, thereby performance at work and motivation of employees. Healthy and positive employees provide a healthy and competitive environment at work thereby ensuring superior performance.
+                Exercise increases energy levels, thereby performance at work and motivation of employees. 
               </span>
+              <br />
+              <span>
+              Healthy and positive employees provide a healthy and competitive environment at work thereby ensuring superior performance.
+              </span>  
               <br />
             </p>
           </main>
